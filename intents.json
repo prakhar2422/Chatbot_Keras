@@ -1,4 +1,8 @@
 {"intents": [
+    {"tag": "learn",
+     "patterns": ["I want to learn"],
+     "responses": ["Sure! I will provide you the resources"]
+    },
     {"tag": "greeting",
      "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
      "responses": ["Hello", "Hi", "Hi there"]
